@@ -24,7 +24,7 @@ public void keyPressed() {
         bob.accelerate(-0.25);
         }
       }
-      if (keyCode == 'h') {
+      if (keyCode == SHIFT) {
        bob.hyperspace();
    }
 }
